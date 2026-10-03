@@ -1,6 +1,3 @@
-Here is your documentation for the dynamic and unknown obstacle UGV navigation project formatted into a clean, professional, copy-pasteable Markdown template optimized for your GitHub `README.md` file.
-
-```markdown
 # UGV Navigation with Dynamic and Unknown Obstacles using A* with Replanning
 
 ## 1. Problem Statement
